@@ -15,7 +15,17 @@ I want to change the field of activity and become a developer.
 HTML
 CSS (Bootstrap)
 Git
-
+**************************
+### Courses:
+HTML and CSS basics on the HtmlAcademy
+JS with a book
+**************************
+### Projects:
+*Github:* [Sedona](адрес "https://github.com/Fl0u/1023427-sedona-25") 
+**************************
+### Languages:
+Russian native
+English basic (reading technical literature)
 ### Code examples:
 ```logo {
   position: absolute;
@@ -32,11 +42,3 @@ Git
   margin-bottom: 57px;
   box-sizing: border-box;
 } ```
-
-### Courses:
-HTML and CSS basics on the HtmlAcademy
-JS with a book
-
-### Languages:
-Russian native
-English Basic (reading technical literature)
