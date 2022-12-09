@@ -17,7 +17,7 @@ CSS (Bootstrap)
 Git
 
 ### Code examples:
-`  ` logo {
+```logo {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -31,7 +31,7 @@ Git
   padding-top: 76px;
   margin-bottom: 57px;
   box-sizing: border-box;
-} ` ` 
+} ```
 
 ### Courses:
 HTML and CSS basics on the HtmlAcademy
@@ -40,5 +40,3 @@ JS with a book
 ### Languages:
 Russian native
 English Basic (reading technical literature)
-
-
