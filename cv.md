@@ -1,5 +1,5 @@
 
-![avatar](https://www.dropbox.com/s/321e43svtrhkmib/14845825220-round.png?dl=0)
+![avatar](https://www.dropbox.com/s/321e43svtrhkmib/14845825220-round.png)
 
 ## Evgeniy Puhovskiy
 # Junior Frontend Developer
