@@ -33,4 +33,12 @@ Git
   box-sizing: border-box;
 } ` ` 
 
+### Courses:
+HTML and CSS basics on the HtmlAcademy
+JS with a book
+
+### Languages:
+Russian native
+English Basic (reading technical literature)
+
 
