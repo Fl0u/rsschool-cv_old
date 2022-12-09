@@ -1,3 +1,6 @@
+
+![avatar](https://www.dropbox.com/s/321e43svtrhkmib/14845825220-round.png?dl=0)
+
 ## Evgeniy Puhovskiy
 # Junior Frontend Developer
 **************************
@@ -42,3 +45,4 @@ English basic (reading technical literature)
   margin-bottom: 57px;
   box-sizing: border-box;
 } ```
+
