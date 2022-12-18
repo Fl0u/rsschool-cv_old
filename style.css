@@ -9,13 +9,13 @@ body {
     justify-content: space-between;
 }
 
-.column1 {
+/* .column1 {
     float: left;
 }
 
 .column2 {
     float: right;
-}
+} */
 
 .container {
     max-width: 1440px;
@@ -24,4 +24,8 @@ body {
 .nav-list {
     display: flex;
     align-items: center;
+}
+
+li {
+    list-style-type: none;
 }
