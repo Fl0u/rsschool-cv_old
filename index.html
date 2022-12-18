@@ -12,35 +12,77 @@
 </head>
 
 <body>
-    <header>
-        <h2>Evgeniy Puhovskiy</h2>
-        <h1>Junior Frontend Developer</h1>
+    <header class="container">
+      <nav>
+        <ul class="nav-list">
+            <li><a href="">Contacts</a></li>
+            <li><a href="">AboutMe</a></li>
+            <li><a href="">Skills</a></li>
+            <li><a href="">Courses</a></li>
+            <li><a href="">Projects</a></li>
+            <li><a href="">Languages</a></li>
+            <li><a href="">Code examples</a></li>
+        </ul>
+      </nav>
     </header>
-    <main>
+    <main class="container">
+          <h2>Evgeniy Puhovskiy</h2>
+        <h1>Junior Frontend Developer</h1>
         <div>
-            <h3>AboutMe</h3>
+            <section>AboutMe</section>
             <p>I'm 34 years old. I work as a customer support manager in a manufacturing company.
                 <br>I want to change the field of activity and become a developer.
             </p>
         </div>
         <div>
-            <h3>Software skills</h3>
+            <section>Software skills</section>
             <!-- Левый блок -->
-            <div>
+            <div class="column1">
                 <p>HTML</p>
                 <p>CSS (Bootstrap)</p>
                 <p>JS (junior)</p>
             </div>
             <!-- Правый блок -->
-            <div>
+            <div class="column2">
                 <p>JS</p>
                 <p>Photoshop</p>
                 <p>Office</p>
             </div>
         </div>
-        <h3>Courses</h3>
-    </main>
-    <footer>
+    <div>
+        <section>Courses</section>
+        <p>HTML and CSS basics on the HtmlAcademy</p>
+        <p>JS with a book</p>
+    </div>
+    <section>Projects</section>
+    <a href="Github">https://github.com/Fl0u/1023427-sedona-25</a>
+    <section>Languages</section>
+    <p>Russian native</p>
+    <p>English basic (reading technical literature)</p>
+<section>Code examples</section>
+<pre>
+    <code>
+        .logo {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+          }
+          
+          .promo {
+            position: relative;
+            height: 800px;
+            background-image: url("../img/bg.jpg");
+            background-position: top center;
+            padding-top: 76px;
+            margin-bottom: 57px;
+            box-sizing: border-box;
+          } 
+    </code>
+</pre>
+</main>
+    <footer class="container">
+    <a href="https://github.com/Fl0u">My Github</a>
+        <a href="https://rs.school/js/">rs.school</a>
     </footer>
 </body>
 

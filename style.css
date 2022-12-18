@@ -8,3 +8,20 @@ body {
     flex-direction: column;
     justify-content: space-between;
 }
+
+.column1 {
+    float: left;
+}
+
+.column2 {
+    float: right;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav-list {
+    display: flex;
+    align-items: center;
+}
